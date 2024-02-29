@@ -1,0 +1,6 @@
+location,lat,long,alt,year,bloom_date,month,meantemp,Jan_max,tmin1,precip1,Feb_max,tmin2,precip2,latdata,longdata,altdata,datasource,web_source_monthly_history_means,date_access,Predictions_28th_29th
+washingtondc,38.8853496,-77.0386278,0,2024,NA,NA,NA,7.2,NA,NA,11.19103448,NA,NA,38.95,77.45,95,dullesINT,www.wunderground.com,27/02/2024,AccuWeather
+liestal,47.4814,7.730519,350,2024,NA,NA,NA,6.4,NA,NA,11.93482759,NA,NA,47.6,7.5,270,bale_mulhouse,www.wunderground.com,27/02/2024,meteoblue
+kyoto,35.0119831,135.6761135,44,2024,NA,NA,NA,10.2,NA,NA,12.03448276,NA,NA,35.0119831,135.6761135,44,kyoto,https://www.data.jma.go.jp/obd/stats/etrn/view/monthly_s3_en.php?block_no=47759&view=2,27/02/2024,https://www.data.jma.go.jp/obd/stats/etrn/view/monthly_s3_en.php?block_no=47759&view=2
+vancouver,49.2236916,-123.1636251,24,2024,NA,NA,NA,6.1,NA,NA,8.23,NA,NA,49.2,-123.1833,4,Vancouver_INT,www.wunderground.com,27/02/2024,AccuWeather
+newyorkcity,40.7304,-73.99809,8.5,2024,NA,NA,NA,5.5,NA,NA,7.043103448,NA,NA,40.77945,-73.88027,3,Laguardia_Airport,www.wunderground.com,27/02/2024,AccuWeather
